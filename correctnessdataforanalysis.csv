@@ -1,0 +1,5 @@
+Category,Precision,Recall,F1 Score
+Related,1.00,1.00,1.00
+Supplementary,0.90,0.17,0.29
+Duplicate,1.00,1.00,1.00
+Unrelated,0.76,0.99,0.86
